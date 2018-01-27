@@ -1,0 +1,6 @@
+name: Altar
+main: io.github.oirah.altar.AltarPlugin
+version: 1.0
+author: oirah
+description: Detect Pesky Alters.
+website: https://www.github.com/oirah/altar
